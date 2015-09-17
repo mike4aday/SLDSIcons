@@ -1,0 +1,10 @@
+PODS:
+  - DesignSystem (0.1.4)
+
+DEPENDENCIES:
+  - DesignSystem
+
+SPEC CHECKSUMS:
+  DesignSystem: 07d88d8d4a202edbd62ab511a7a63ea2948f31e7
+
+COCOAPODS: 0.36.3
